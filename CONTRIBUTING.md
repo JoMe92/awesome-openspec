@@ -37,6 +37,7 @@ We welcome:
 
 - Tools and utilities that work with OpenSpec
 - Tutorials, articles, and blog posts
+- Books, which go in the Books section rather than in Articles & Tutorials
 - Videos and presentations
 - Schemas and extensions
 - GitHub Actions and integrations

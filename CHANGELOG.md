@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- New section: Books, holding the SDD books on the list.
+- New entry: Non-Deterministic Spec-Driven Development: Enterprise Edition by Enrico Papalini.
 - Contribution requirement: a GitHub repository must have existed for at least 30 days before it can be added to the list. Articles, videos and other published resources are exempt.
 - A pull request template with a contribution checklist, so the requirements are visible when a pull request is opened.
 - New entry: specgetty, a terminal UI for finding OpenSpec projects on your machine and reporting their status.
@@ -16,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- The Spec-Driven Development book moved out of Articles & Tutorials into the new Books section.
 - The entry scripts can now be imported without running, so they can be tested. Running them from the command line is unchanged.
 - The UIs section is now split into Web & Desktop and Terminal subsections, so terminal tools are easier to find. Entries are ordered alphabetically within each subsection.
 - The UIs subsections now read in alphabetical order: Mobile, Terminal, Web & Desktop.

@@ -19,6 +19,7 @@ Browse this list as a searchable website with live star counts at
 - [Schemas & Extensions](#schemas--extensions)
 - [Templates & Starters](#templates--starters)
 - [GitHub Actions](#github-actions)
+- [Books](#books)
 - [Videos](#videos)
 - [Articles & Tutorials](#articles--tutorials)
 - [Community](#community)
@@ -148,6 +149,11 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 
 - [OpenSpec Badge Action](https://github.com/wearetechnative/openspec-badge-action) - GitHub Action generating SVG badges for OpenSpec metrics.
 
+## Books
+
+- [Non-Deterministic Spec-Driven Development: Enterprise Edition](https://www.amazon.com/dp/B0GZPNCGR1) - From frameworks to enterprise practice.
+- [Spec-Driven Development (book)](https://github.com/felipefontoura/spec-driven-development-book) - Open SDD book with a Claude Code kit.
+
 ## Videos
 
 - [I Found the Simplest AI Dev Tool Ever](https://www.youtube.com/watch?v=cQv3ocbsKHY) - Short introduction video to OpenSpec.
@@ -170,7 +176,6 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 - [OpenSpec-practise](https://github.com/ForceInjection/OpenSpec-practise) - Practical guide to OpenSpec v1.3.0 with SDD examples. (Chinese/English)
 - [openspec-tutorial](https://github.com/aiyinluya/openspec-tutorial) - Beginner tutorial for OpenSpec. (Taiwanese)
 - [spec-compare](https://github.com/cameronsjo/spec-compare) - Comparison of six SDD tools with decision frameworks and scoring matrices.
-- [Spec-Driven Development (book)](https://github.com/felipefontoura/spec-driven-development-book) - Open SDD book with a Claude Code kit.
 - [What Is Spec-Driven Development?](https://felipefontoura.com/articles/what-is-spec-driven-development/) - A practitioner's guide to SDD.
 
 ## Community
