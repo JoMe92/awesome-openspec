@@ -11,6 +11,11 @@ Thank you for your interest in contributing!
 ## Guidelines
 
 - Make sure the resource is related to OpenSpec or Spec-Driven Development
+- A GitHub repository must have existed for at least 30 days before it can be
+  added. A younger repository is too new to judge, so its pull request is closed
+  with the date on which it becomes eligible and can be reopened on or after
+  that date. Articles, videos and other published resources are exempt: they
+  count from their publication date.
 - Use the format: `[Name](URL) - Short description.`
 - Keep the entire line under 150 characters so it renders on one line on GitHub
 - Keep descriptions concise (one sentence)

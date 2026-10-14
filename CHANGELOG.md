@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Contribution requirement: a GitHub repository must have existed for at least 30 days before it can be added to the list. Articles, videos and other published resources are exempt.
+- A pull request template with a contribution checklist, so the requirements are visible when a pull request is opened.
 - New entry: specgetty, a terminal UI for finding OpenSpec projects on your machine and reporting their status.
 - New entry: specgetty-mobile, an Android reader for OpenSpec specs, changes and tasks in a cloned repository, in a new Mobile subsection under UIs.
 
